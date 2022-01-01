@@ -137,14 +137,8 @@
     <td>
       <img src="https://aleen42.github.io/badges/src/google_plus.svg">
     </td>
-  </tr> <tr>
-    <td>
-      https://aleen42.github.io/badges/src/google_plus.svg
-    </td>
-    <td>
-      <img src="https://aleen42.github.io/badges/src/google_plus.svg">
-    </td>
-  </tr>
+  </tr> 
+  
   <tr>
     <td>
       https://aleen42.github.io/badges/src/pinterest.svg
