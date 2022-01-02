@@ -1,10 +1,19 @@
 <h1>Super lista de badges para personalizar o seu readme.md</h1>
 <h4><p>Se você gosta de personalizar seu readme.md, esta lista é para você, com vários subtópicos e recheada de badges</p><h4>
 <h4>Como usar a lista</h4>
+
+ 
 <p>Basta copiar o link do badge do lado esquerdo da tabela da lista de badges e adicionar a uma tag <b>img</b>. <b>O markdown também suporta badges, basta pegar a tag do markdown e adicionar o link</b></p>
-<table><p>Vocẽ tambem pode envolver a tag <b>img</b> com uma tag </a>a<b> para redirecionar para o lugar que você bem enterder, até outro readme.md, basta pesquisar como fazer o link do readme do youtube</p>
-  </tr>
-  <tr>
+<p>Vocẽ tambem pode envolver a tag <b>img</b> com uma tag </a><b> a para redirecionar para o lugar que você bem enterder, até outro readme.md, basta pesquisar como fazer o link do readme do youtube</p>
+
+<h3>Outros badges que também são bem legais</h3> 
+  <ol>
+     <li><a href="https://shields.io/">shields.io</a></li>
+     <li><a href="https://dev.to/envoy_/150-badges-for-github-pnk">dev.io</a></li>
+  </ol>
+<h4>Segue a lista de badges, por favor me sigam para ver mais novidades ou dêem uma estrela no repositório pois deu muito trabalho. Obrigado!<h4>
+<table>
+<tr>
     <td>Link para o badge</b>
   </td>
   <td>
